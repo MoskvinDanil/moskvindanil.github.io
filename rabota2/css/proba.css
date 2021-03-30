@@ -1,0 +1,87 @@
+.main {
+  margin-bottom: 5rem;
+  background: #ffffff url(../img/fons.png) center center no-repeat;
+}
+.main .logo {
+  margin-top: 3rem;
+}
+.main-logo {
+  display: inline-block;
+  float: left;
+}
+.main-text {
+  float: left;
+  display: inline-block;
+  color: #fff;
+}
+.main .text {
+  margin: 5rem 0 3rem 0;
+  font-size: 2rem;
+}
+.main .text strong {
+  font-size: 3.5rem;
+}
+.main .btn {
+  padding: 0.7rem 3.5rem;
+  margin: 2.5rem 0;
+  color: #2e2a1b;
+  background-color: #ffd429;
+}
+.photo {
+  margin: 5rem 0;
+  display: inline-block;
+}
+.photo h3 {
+  padding-top: 1rem;
+}
+.photo-center {
+  margin: 0 5rem;
+  display: inline-block;
+}
+.photo-center h3 {
+  padding-top: 1rem;
+}
+.center-logo {
+  text-align: center;
+}
+.down {
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+.down-fons {
+  background-color: #ecf3f8;
+  width: 100%;
+  height: 35rem;
+}
+.down h2 {
+  padding: 5rem 0 0 0;
+}
+.down-btn {
+  margin-left: 32.2rem;
+  margin-top: 1rem;
+  width: 20rem;
+  height: 3rem;
+  background-color: #ffd429;
+  border: none;
+  font-weight: 900;
+  color: #2e2a1b;
+}
+.down-form-input {
+  display: block;
+  margin: auto;
+  margin-top: 1rem;
+  width: 20rem;
+  height: 3rem;
+}
+.end {
+  background-color: #164d7a;
+  width: 100%;
+  height: 5rem;
+  text-align: center;
+  padding: 2rem 0 0 0;
+  color: #fff;
+}
+.end p {
+  font-size: 0.83rem;
+}
